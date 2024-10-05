@@ -29,6 +29,6 @@ checking that the frame is received correctly and not corrupted.
 0: Even parity bit
 1: Odd parity bit
 ## Block diagram
-(Rx block diagram .png)
+([Rx block diagram .png](https://github.com/Michael-lhany/Uart-Rx/blob/ef42bf9b3052351225649d29bc4f251cf7f3102e/Rx%20block%20diagram%20.png))
 ##
 * I have added a run.do and a wave.do so it can be easier for you to try the project out on questasim
